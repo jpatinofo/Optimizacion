@@ -6,3 +6,4 @@ keras
 matplotlib
 pydataxm
 seaborn
+statsmodels
