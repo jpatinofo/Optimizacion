@@ -7,3 +7,5 @@ matplotlib
 pydataxm
 seaborn
 statsmodels
+pyswarms
+mealpy
